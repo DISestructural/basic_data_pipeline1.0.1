@@ -1,2 +1,3 @@
-# lab-agile-planning
-coursera agile
+#data_engineering_practices 
+#I explore distinct uses and integration of processes in the data pipelines
+
